@@ -1,0 +1,13 @@
+{
+    "name": "derekwhittom/packagist-mirror",
+    "authors": [
+        {
+            "name": "Derek Whittom",
+            "email": "dwhittom@talentwise.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+      "composer/satis": "dev-master"
+    }
+}
